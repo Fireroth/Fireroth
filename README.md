@@ -1,1 +1,2 @@
-<img src="nomnom.gif" width="250" height="250"/>
+
+<img src="nomnom.gif" width="700" height="250"/>
