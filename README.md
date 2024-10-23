@@ -1,2 +1,1 @@
-## 👋
-<img src="nomnom.gif" width="100%" height="250"/>
+![Metrics](https://metrics.lecoq.io/Fireroth?template=classic&base.activity=0&base.community=0&base.repositories=0&gists=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&gists=false&pagespeed=false&pagespeed.url=fireroth.github.io&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Europe%2FPrague)
