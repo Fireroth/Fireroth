@@ -20,7 +20,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Firerotg
           template: classic
           base: repositories
           config_octicon: yes
