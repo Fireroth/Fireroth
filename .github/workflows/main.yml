@@ -20,12 +20,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          user: Fireroth
           template: classic
-          base: repositories
-          config_octicon: yes
+          base: header, repositories, metadata
           config_timezone: Europe/Prague
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 2
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
